@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+Yi Dong is a senior applied scientist working on natural language processing/deep learning real-world applications at NVIDIA. Yi gained his Ph.D. from Johns Hopkins University School of Medicine studying computational neuroscience. Yi has 10 years of experience in computer software engineering, machine learning, and finance. Yi likes reading about the latest advancements in deep learning and applying them to solve enterprise problems.
 
-A place to include any other types of information that you'd like to include about yourself.
+# Other blogs:
+
+[Tech Blogs](https://developer.nvidia.com/blog/author/yidong/)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yidong@nvidia.com](mailto:yidong@nvidia.com)
