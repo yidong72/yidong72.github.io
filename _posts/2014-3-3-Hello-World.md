@@ -1,6 +1,5 @@
-usemathjax: true
-
 ---
+usemathjax: true
 layout: post
 title: Simple MLP Forward Backward Equations
 ---
