@@ -9,5 +9,5 @@ Yi Dong is a senior applied scientist working on natural language processing/dee
 
 # Other blogs:
 
-[Tech Blogs](https://developer.nvidia.com/blog/author/yidong/)
-[Medium Blogs](https://medium.com/@doyend)
+- [Tech Blogs](https://developer.nvidia.com/blog/author/yidong/)
+- [Medium Blogs](https://medium.com/@doyend)
